@@ -1,12 +1,8 @@
 ## Introduction  
 
-I tried. I searched every corner of the internet, desperately looking for a guide that actually delivered what I wanted: **clean, organized manga volumes** on my Kindle without sacrificing quality or ease of use. So if someone out there already did this and I’m just repeating—well, my bad. But this guide is here because I needed it, and I figured you might too.  
+I tried. I searched every corner of the internet, desperately looking for a guide that actually delivered what I wanted: **clean, organized manga volumes** on my Kindle without sacrificing quality or ease of use or left to right read. So if someone out there already did this and I’m just repeating—well, my bad. But this guide is here because I needed it, and I figured you might too.  
 
 # Manga on Kindle, Simplified  
-
-*"Life’s all about reading what you love, where you want, isn’t it?"*  - Homer Simpson
-
-F tired of not knowing which tool to use? Sick of chapters scattered like a blown-up paper stack? Kindle’s picky as ever, and your CBZ files don’t stand a chance on their own.  
 
 Here’s the deal: we’re going to **convert**, **merge**, and **optimize** every single chapter into clean volumes for your Kindle. Margins cropped, pages perfectly aligned, right-to-left just as it should be—no compromises.  
 
