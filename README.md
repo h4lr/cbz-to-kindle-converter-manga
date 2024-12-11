@@ -54,9 +54,9 @@ When you’ve got hundreds of chapters, moving them to Kindle *as-is* will turn 
 2. Makes browsing on Kindle effortless—you’ll know exactly where you are.  
 3. Works seamlessly before converting to Kindle-friendly AZW3 files.  
 
-**Oh, and if you’re thinking of converting to EPUB (with KCC) and merging it with Calibre (EPUB MERGER) for ‘better quality’—think again. Sure, it sounds smart, but you’re sacrificing way more than you gain. The maximum quality comes when you use KCC to convert directly to AZW3 and send it straight to Kindle.
+**Oh, and if you’re thinking of converting to EPUB (with KCC) and merging it with Calibre (EPUB MERGER) for ‘better quality’—think again. Sure, it sounds smart, but you’re sacrificing way more than you gain. The maximum quality comes when you use KCC to convert directly to AZW3 and send it straight to Kindle.**
 
-The problem? There’s no AZW3 merger out there. So you’re stuck either with two million separate, unfindable chapters or using an EPUB merger—only to end up reading right-to-left like an European (I am European). The result? Far worse than simply organizing your chapters into clean volumes with our tool and then converting them to AZW3. Don’t overcomplicate it—go for quality, and left to right reading"**
+**The problem? There’s no AZW3 merger out there. So you’re stuck either with two million separate, unfindable chapters or using an EPUB merger—only to end up reading right-to-left like an European (I am European). The result? Far worse than simply organizing your chapters into clean volumes with our tool and then converting them to AZW3. Don’t overcomplicate it—go for quality, and left to right reading"**
 
 ---
 
@@ -99,7 +99,3 @@ Once your manga volumes are perfectly converted to **AZW3** using KCC, it’s ti
 That’s it—no fuss, no manual file juggling. Your manga is now ready to read on your Kindle, in glorious right-to-left format and perfect quality.  
 
 ---
-
-Next up: tips and tricks to get the absolute **best reading experience** on your Kindle.  
-
-
