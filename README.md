@@ -14,21 +14,6 @@ By the time we’re through, your Kindle will hold your manga kingdom, exactly a
 
 ---
 
-## Why DRM-Free Manga and Comics?  
-
-Let’s face it—nobody likes being told what to do with something they already paid for. DRM (Digital Rights Management) locks your manga and comics into platforms, limits their use, and turns *your* collection into a glorified rental service.  
-
-With **DRM-free files**, you’re in control:  
-- Transfer them anywhere.  
-- Convert them into the perfect format.  
-- Back them up like the treasure they are.  
-
-Platforms like [BookWalker](https://global.bookwalker.jp/), [Humble Bundle](https://www.humblebundle.com/), or [Itch.io](https://itch.io/) get it—they let you buy, download, and truly *own* your content.  
-
-But here’s the kicker: Kindles don’t play nice with CBZ, CBR, or EPUB files. So, if you want your manga to shine on that e-ink screen, it’s time to convert, merge, and take charge.  
-
----
-
 ## What Formats Work with Kindle?  
 
 Ah, the Kindle—an e-reader marvel, but about as flexible as a brick when it comes to file formats. Here's what it **likes**:  
@@ -55,7 +40,7 @@ Once you’ve got your CBZ files nice and ready, we can move to the next step: *
 
 ---
 
-Here’s the catch: once you download your manga, you’re going to end up with a bazillion individual chapters. You’ll have more chapters than a rabbit has kids—and good luck finding Chapter 69 in that mess.
+**Here’s the catch: once you download your manga, you’re going to end up with a bazillion individual chapters. You’ll have more chapters than a rabbit has kids—and good luck finding Chapter 69 in that mess.**
 
 ---
 
@@ -69,7 +54,7 @@ When you’ve got hundreds of chapters, moving them to Kindle *as-is* will turn 
 2. Makes browsing on Kindle effortless—you’ll know exactly where you are.  
 3. Works seamlessly before converting to Kindle-friendly AZW3 files.  
 
-**"Oh, and if you’re thinking of converting to EPUB (with KCC) and merging it with Calibre (EPUB MERGER) for ‘better quality’—think again. Sure, it sounds smart, but you’re sacrificing way more than you gain. The maximum quality comes when you use KCC to convert directly to AZW3 and send it straight to Kindle.
+**Oh, and if you’re thinking of converting to EPUB (with KCC) and merging it with Calibre (EPUB MERGER) for ‘better quality’—think again. Sure, it sounds smart, but you’re sacrificing way more than you gain. The maximum quality comes when you use KCC to convert directly to AZW3 and send it straight to Kindle.
 
 The problem? There’s no AZW3 merger out there. So you’re stuck either with two million separate, unfindable chapters or using an EPUB merger—only to end up reading right-to-left like an European (I am European). The result? Far worse than simply organizing your chapters into clean volumes with our tool and then converting them to AZW3. Don’t overcomplicate it—go for quality, and left to right reading"**
 
